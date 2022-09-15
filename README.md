@@ -1,1 +1,1 @@
-![alt text](https://raw.githubusercontent.com/kngatineau/kngatineau/main/GitHub_Banner_KNG_1.gif)
+![alt text](https://raw.githubusercontent.com/kngatineau/kngatineau/main/GitHUb_banner_KNG_1.gif)
