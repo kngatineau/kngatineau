@@ -1,6 +1,10 @@
 
 ![Blue Modern Marketing Manager Linkedin Banner (1584 × 396 px) (1500 × 500 px) (1200 × 500 px) (1180 × 300 px)](https://github.com/kngatineau/kngatineau/assets/90870802/18a73c13-83ff-46f0-aafa-21ad4d57484d)
 
+#### Badges/Certifications
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 #### Update - March 8th, 2024
 Hi friends :wave: welcome to my GitHub.   
 
