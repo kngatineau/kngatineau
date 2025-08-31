@@ -9,7 +9,7 @@
 
 Hi friends :wave: welcome to my GitHub.   
 
-I am currently juggling parenting and a new job, so my personal projects have been put on hold for now. That being said, please don't hesitate to reach out and say hi. 😁
+I am trying this thing where I go outside and enjoy my life away from computer screens when I am not working.. so my personal GitHub will look little bare. That being said, please don't hesitate to reach out and say hi. 😁
 
 Happy coding!
 
